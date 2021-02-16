@@ -1,0 +1,6 @@
+Hello World!
+Welcome to EMAT10007 - Introduction to Computer Programming
+In this first assignment, called "Building Programs", we are going to learn how to build small programs using all of the concepts covered so far.
+The aim of this project is to implement a Caesar cipher to encode and decode messages.
+Remember to use functions, lists, dictionaries, conditional statements, loops, and other concepts you have learnt about in lectures. You should use the concepts in places where it makes sense to do so: when should you be using a dictionary instead of a list? Should you use a tuple for packing related values together?
+Good luck!
